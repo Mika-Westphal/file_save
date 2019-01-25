@@ -9,3 +9,4 @@ Computality https://minecraft.curseforge.com/projects/computality?projectID=2666
 Baubles https://minecraft.curseforge.com/projects/baubles?projectID=227083 <br>
 Thaumcraft https://minecraft.curseforge.com/projects/thaumcraft <br>
 Aether Legacy https://minecraft.curseforge.com/projects/aether-legacy?projectID=255308 <br>
+Avaritia https://minecraft.curseforge.com/projects/avaritia
